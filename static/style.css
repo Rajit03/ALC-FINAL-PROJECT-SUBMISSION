@@ -95,8 +95,8 @@ li {
     }
 }
 .logo {
-    width: 120px; /* Adjusted size for better proportion */
-    height: auto; /* Maintain aspect ratio */
-    margin-bottom: 20px; /* Space below the logo */
+    width: 120px; 
+    height: auto; 
+    margin-bottom: 20px; 
     margin-top: 50px;
 }
