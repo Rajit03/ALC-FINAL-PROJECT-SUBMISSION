@@ -111,8 +111,7 @@
     </style>
 
     <script>
-        const availableBalance = {{ balance }}; // Pass the available balance to JavaScript
-
+        const availableBalance = {{ balance }}; 
         function openModal(type) {
             document.getElementById('transactionModal').style.display = 'block';
             document.getElementById('modalTitle').innerText = type.charAt(0).toUpperCase() + type.slice(1) + ' Amount';
